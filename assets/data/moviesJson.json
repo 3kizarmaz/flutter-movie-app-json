@@ -1,0 +1,86 @@
+[
+
+    {
+        "id" : 0,
+        "movieName" : "12 Angry Men",
+        "movieYear" : 1957,
+        "movieRating" : 9.0,
+        "movieSummary" : "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "movieImageUrl" : "assets/images/12angrymen.jpg"
+    },
+    {
+        "id" : 1,
+        "movieName" : "The Good, The Bad and Ugly",
+        "movieYear" : 1966,
+        "movieRating" : 8.8,
+        "movieSummary" : "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "movieImageUrl" : "assets/images/gba.jpg"
+    },
+    {
+        "id" : 2,
+        "movieName" : "The Lord Of The Rings: The Return Of The King",
+        "movieYear" : 2003,
+        "movieRating" : 9.0,
+        "movieSummary" : "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "movieImageUrl" : "assets/images/lotrking.jpg"
+    },
+    {
+        "id" : 3,
+        "movieName" : "The Lord Of The Rings: The Fellowship Of The Ring",
+        "movieYear" : 2001,
+        "movieRating" : 8.8,
+        "movieSummary" : "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "movieImageUrl" : "assets/images/lotrring.jpg"
+    },
+    {
+        "id" : 4,
+        "movieName" : "Pulp Fiction",
+        "movieYear" : 1994,
+        "movieRating" : 8.9,
+        "movieSummary" : "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "movieImageUrl" : "assets/images/pulpfiction.jpg"
+    },
+    {
+        "id" : 5,
+        "movieName" : "Schindler's List",
+        "movieYear" : 1993,
+        "movieRating" : 9.0,
+        "movieSummary" : "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "movieImageUrl" : "assets/images/schdinlerslist.jpg"
+    },
+    {
+        "id" : 6,
+        "movieName" : "The Shawshank Redemption",
+        "movieYear" : 1994,
+        "movieRating" : 9.3,
+        "movieSummary" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "movieImageUrl" : "assets/images/sredemption.jpg"
+    },
+    {
+        "id" : 7,
+        "movieName" : "The Dark Knight",
+        "movieYear" : 2008,
+        "movieRating" : 9.0,
+        "movieSummary" : "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "movieImageUrl" : "assets/images/thedarkknight.jpg"
+    },
+    {
+        "id" : 8,
+        "movieName" : "The Godfather",
+        "movieYear" : 1972,
+        "movieRating" : 9.2,
+        "movieSummary" : "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "movieImageUrl" : "assets/images/thegodfather.jpg"
+    },
+    {
+        "id" : 9,
+        "movieName" : "The Godfather 2",
+        "movieYear" : 1974,
+        "movieRating" : 9.0,
+        "movieSummary" : "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "movieImageUrl" : "assets/images/thegodfather2.jpg"
+    }
+
+
+
+]
