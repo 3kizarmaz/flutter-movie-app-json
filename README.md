@@ -4,5 +4,5 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
 
-![flutter-movie-app-json-screenshot](https://user-images.githubusercontent.com/28534878/192143243-5ac6ba6a-53cf-41a2-84ae-7113f9302f43.png)
-![flutter-movie-app-json-screenshot-2](https://user-images.githubusercontent.com/28534878/192143244-aef1f4c5-6c24-4abb-b79a-e8b565bd7b96.png)
+![flutter-movie-app-json-screenshot](https://user-images.githubusercontent.com/28534878/193408161-3b925f19-bd8b-4766-9285-27d78fb1bb24.png)
+![flutter-movie-app-json-screenshot-2](https://user-images.githubusercontent.com/28534878/193408162-506a4399-83fc-4595-b387-09a0ce240cbf.png)
